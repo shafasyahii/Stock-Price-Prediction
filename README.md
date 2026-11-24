@@ -23,7 +23,7 @@ test set with MAPE, RMSE, MAE, and R².
   (Holm-corrected), bootstrap confidence interval, Spearman correlation
 
 ## Repository contents
-- `<nama-notebook>.ipynb`: the complete pipeline in one notebook (data download,
+- `<source codek>.ipynb`: the complete pipeline in one notebook (data download,
   feature engineering, AO and GWO implementation, 740 optimization runs,
   evaluation, and statistical tests)
 
